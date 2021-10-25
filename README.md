@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Özgür 👋
 
 <!--
 **ozgur93/ozgur93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning about Data Science
 - 🔭 I’m currently working on Python and SQL
+- 📫 How to reach me: ozgurcagdas23@gmail.com
