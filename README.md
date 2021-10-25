@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about Data Science
 - 🔭 I’m currently working on Python and SQL
 - 📫 How to reach me: ozgurcagdas23@gmail.com
+
+[linkedin]: https://www.linkedin.com/in/ozgur-cagdas/
